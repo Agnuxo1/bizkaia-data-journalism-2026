@@ -1,0 +1,29 @@
+[
+ {
+  "semilla": 1,
+  "errores": 20,
+  "detectados_verificador": 20,
+  "detectados_control": 16,
+  "intercambios": 20,
+  "intercambios_verificador": 0,
+  "intercambios_control": 0
+ },
+ {
+  "semilla": 2,
+  "errores": 20,
+  "detectados_verificador": 20,
+  "detectados_control": 17,
+  "intercambios": 20,
+  "intercambios_verificador": 0,
+  "intercambios_control": 0
+ },
+ {
+  "semilla": 3,
+  "errores": 20,
+  "detectados_verificador": 20,
+  "detectados_control": 17,
+  "intercambios": 20,
+  "intercambios_verificador": 0,
+  "intercambios_control": 0
+ }
+]

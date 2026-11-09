@@ -1,0 +1,82 @@
+{
+  "role": "Exploratory sensitivity, not independent confirmation or causal/legality proof",
+  "provenance": {
+    "raw_files_verified": 41,
+    "duplicate_identical_latest_cuts": 0,
+    "selected_cuts": {
+      "2014": 12,
+      "2015": 12,
+      "2016": 12,
+      "2017": 12,
+      "2018": 12,
+      "2019": 12,
+      "2020": 12,
+      "2021": 12,
+      "2022": 12,
+      "2023": 12,
+      "2024": 12,
+      "2025": 12,
+      "2026": 6
+    },
+    "selected_rows_including_partial2026": 42074
+  },
+  "observed": {
+    "services_pre_B18150": 2.395209580838323,
+    "services_post_B18150": 8.094032549728752,
+    "post_minus_pre": 5.698822968890429,
+    "counts_pre_band_ref_post_band_ref": [
+      100,
+      167,
+      1119,
+      553
+    ],
+    "services_500eur_below": 1105,
+    "services_500eur_above": 0,
+    "old_upper_post_B21780": null,
+    "old_upper_post_band": 0,
+    "old_upper_post_reference": 0
+  },
+  "supplier_cluster_bootstrap": {
+    "pre_ci95": [
+      1.7988165680473374,
+      3.1489798892451173
+    ],
+    "post_ci95": [
+      7.093801214854201,
+      9.25800528521961
+    ],
+    "paired_post_minus_pre_ci95": [
+      4.429450579601372,
+      7.01772648303696
+    ],
+    "replicates": 10000,
+    "seed": 20261109,
+    "unsupported_replicates": 0,
+    "supplier_clusters": 4281
+  },
+  "missing_supplier_rows_separate_clusters": 0,
+  "leave_one_supplier_Bpost_range": [
+    8.007233273056057,
+    8.212844036697248
+  ],
+  "leave_one_year_Bpost": {
+    "2019": 8.125786163522013,
+    "2020": 7.641325536062378,
+    "2021": 8.09224318658281,
+    "2022": 8.07725321888412,
+    "2023": 8.033755274261603,
+    "2024": 8.304347826086957,
+    "2025": 8.443458980044346
+  },
+  "accounting_unit": {
+    "post_lines": 33395,
+    "distinct_exercise_accounting_identifiers": 33395,
+    "identifiers_with_multiple_lines": 0,
+    "maximum_lines_per_identifier": 1
+  },
+  "privacy": {
+    "supplier_names_exported": false,
+    "raw_rows_exported": false
+  },
+  "uncertainty": "Observed census counts are exact for this archived scope. Bootstrap intervals depend on a hypothetical supplier-resampling model and imperfect name identities. No untreated comparison group."
+}

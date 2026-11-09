@@ -1,0 +1,16 @@
+[
+  {
+    "name": "REPORTAJE",
+    "pages": 7,
+    "bytes": 715589,
+    "sha256": "6629cd5bfa94310aadb6b70977e8f6f22de68d9b972311aec9ee65cc243d1544",
+    "all_pages_signed_visibly": true
+  },
+  {
+    "name": "INFORME_TECNICO",
+    "pages": 5,
+    "bytes": 377048,
+    "sha256": "6cfb75561e86565abbdd4391363fc982d92a98bd99954e9ba1c8e92ca31cdc80",
+    "all_pages_signed_visibly": true
+  }
+]

@@ -1,0 +1,7 @@
+datos/raw/
+datos/catalogo.json
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+pieza/*.html
+pieza/_estilo.css

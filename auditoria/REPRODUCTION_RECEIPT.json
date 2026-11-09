@@ -1,0 +1,16 @@
+{
+  "notebook_code_cells_executed": 5,
+  "notebook_error_outputs": [],
+  "robustness_exactly_reproduced": true,
+  "historical_results_equal_python_nan_note": {
+    "verificacion/resultados.json": true,
+    "verificacion/exploratorio.json": true
+  },
+  "figure_bytes_unchanged": {
+    "fig1_pared.png": true,
+    "fig2_experimento.png": true,
+    "fig3_serie.png": true,
+    "fig4_diciembre.png": true
+  },
+  "raw_records_not_for_publication": true
+}

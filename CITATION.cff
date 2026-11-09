@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this analysis, please cite it."
+title: "Hasta el ultimo centimo: minor contracts and the legal ceiling at the Diputacion Foral de Bizkaia"
+type: software
+authors:
+  - family-names: "Angulo de Lafuente"
+    given-names: "Francisco"
+    orcid: "https://orcid.org/0009-0001-1634-7063"
+license: Apache-2.0
+date-released: 2026-11-08
+repository-code: "https://github.com/Agnuxo1/bizkaia-data-journalism-2026"

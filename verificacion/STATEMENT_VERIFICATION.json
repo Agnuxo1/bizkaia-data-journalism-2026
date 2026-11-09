@@ -1,0 +1,12 @@
+{
+  "numeric_source_checks": 91,
+  "revised_clause_bindings": 7,
+  "failures": [],
+  "targeted_mutations": {
+    "targeted_cases": 7,
+    "type": "Swap two already-valid numbers, preserving their global presence",
+    "detected": 7,
+    "legacy_global_literal_detected": 0,
+    "scope": "Targeted revised clauses only; not a general detection benchmark or verification of every historical sentence"
+  }
+}

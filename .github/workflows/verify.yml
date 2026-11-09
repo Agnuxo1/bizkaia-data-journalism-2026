@@ -1,0 +1,25 @@
+name: Verify report statements
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Parse analysis source without private inputs
+        run: |
+          python - <<'PY'
+          import ast
+          from pathlib import Path
+          paths = list(Path('notebook').glob('*.py')) + list(Path('auditoria').glob('*.py')) + list(Path('verificacion').glob('*.py'))
+          for path in paths:
+              ast.parse(path.read_text(encoding='utf-8'))
+          print(f'{len(paths)} source files parsed')
+          PY
+      - name: Check numeric sources and statement bindings
+        run: python verificacion/verificar_revisado.py

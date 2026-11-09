@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://orcid.org/0009-0001-1634-7063",
+  "name": "Francisco Angulo de Lafuente",
+  "jobTitle": "Independent AI researcher",
+  "sameAs": [
+    "https://orcid.org/0009-0001-1634-7063",
+    "https://github.com/Agnuxo1",
+    "https://arxiv.org/a/angulodelafuente_f_1.html",
+    "https://es.wikipedia.org/wiki/Francisco_Angulo_de_Lafuente"
+  ]
+}

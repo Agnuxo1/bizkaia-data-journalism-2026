@@ -1,0 +1,651 @@
+{
+ "cortes_dfb": {
+  "2014": 12,
+  "2015": 12,
+  "2016": 12,
+  "2017": 12,
+  "2018": 12,
+  "2019": 12,
+  "2020": 12,
+  "2021": 12,
+  "2022": 12,
+  "2023": 12,
+  "2024": 12,
+  "2025": 12,
+  "2026": 6
+ },
+ "cortes_ifas": {
+  "2014": 12,
+  "2015": 12,
+  "2016": 12,
+  "2017": 12,
+  "2018": 12,
+  "2019": 12,
+  "2020": 12,
+  "2021": 12,
+  "2022": 12,
+  "2023": 12,
+  "2024": 12,
+  "2025": 12,
+  "2026": 9
+ },
+ "E1_E2_dfb_servicios": {
+  "POST_18150": {
+   "B": 8.09,
+   "ic95": [
+    7.31,
+    8.97
+   ],
+   "n_banda": 1119,
+   "n_ref": 553
+  },
+  "PRE_18150": {
+   "B": 2.4,
+   "ic95": [
+    1.85,
+    3.05
+   ],
+   "n_banda": 100,
+   "n_ref": 167
+  },
+  "PRE_21780": {
+   "B": 6.33,
+   "ic95": [
+    5.21,
+    7.73
+   ],
+   "n_banda": 261,
+   "n_ref": 165
+  },
+  "POST_21780": {
+   "B": NaN,
+   "ic95": [
+    NaN,
+    NaN
+   ],
+   "n_banda": 0,
+   "n_ref": 0
+  }
+ },
+ "E2b_dfb_suministros": {
+  "POST_18150": {
+   "B": 4.83,
+   "ic95": [
+    3.68,
+    6.32
+   ],
+   "n_banda": 111,
+   "n_ref": 92
+  },
+  "PRE_18150": {
+   "B": 1.45,
+   "ic95": [
+    0.63,
+    2.72
+   ],
+   "n_banda": 12,
+   "n_ref": 33
+  },
+  "PRE_21780": {
+   "B": 4.41,
+   "ic95": [
+    2.62,
+    7.48
+   ],
+   "n_banda": 32,
+   "n_ref": 29
+  },
+  "POST_21780": {
+   "B": NaN,
+   "ic95": [
+    NaN,
+    NaN
+   ],
+   "n_banda": 0,
+   "n_ref": 0
+  }
+ },
+ "E3_ifas_servicios": {
+  "POST_18150": {
+   "B": 6.22,
+   "ic95": [
+    3.45,
+    12.0
+   ],
+   "n_banda": 28,
+   "n_ref": 18
+  },
+  "PRE_18150": {
+   "B": 3.0,
+   "ic95": [
+    0.0,
+    14.0
+   ],
+   "n_banda": 3,
+   "n_ref": 4
+  },
+  "PRE_21780": {
+   "B": 1.14,
+   "ic95": [
+    0.0,
+    5.0
+   ],
+   "n_banda": 2,
+   "n_ref": 7
+  },
+  "POST_21780": {
+   "B": NaN,
+   "ic95": [
+    NaN,
+    NaN
+   ],
+   "n_banda": 0,
+   "n_ref": 0
+  }
+ },
+ "E3b_ifas_suministros": {
+  "POST_18150": {
+   "B": 2.67,
+   "ic95": [
+    0.43,
+    10.0
+   ],
+   "n_banda": 4,
+   "n_ref": 6
+  },
+  "PRE_18150": {
+   "B": 16.0,
+   "ic95": [
+    1.33,
+    32.0
+   ],
+   "n_banda": 4,
+   "n_ref": 1
+  },
+  "PRE_21780": {
+   "B": 0.0,
+   "ic95": [
+    0.0,
+    0.0
+   ],
+   "n_banda": 0,
+   "n_ref": 3
+  },
+  "POST_21780": {
+   "B": NaN,
+   "ic95": [
+    NaN,
+    NaN
+   ],
+   "n_banda": 0,
+   "n_ref": 0
+  }
+ },
+ "E4_placebos_post_servicios": {
+  "16000": {
+   "B": 0.63,
+   "ic95": [
+    0.48,
+    0.79
+   ],
+   "n_banda": 77,
+   "n_ref": 492
+  },
+  "20000": {
+   "B": 0.0,
+   "ic95": [
+    0.0,
+    0.0
+   ],
+   "n_banda": 0,
+   "n_ref": 1325
+  },
+  "12100": {
+   "B": 2.09,
+   "ic95": [
+    1.7,
+    2.55
+   ],
+   "n_banda": 147,
+   "n_ref": 281
+  }
+ },
+ "E5_obras_dfb": {
+  "POST_48400": {
+   "B": 7.66,
+   "ic95": [
+    6.03,
+    9.87
+   ],
+   "n_banda": 178,
+   "n_ref": 93
+  },
+  "PRE_60500": {
+   "B": 9.52,
+   "ic95": [
+    6.0,
+    16.73
+   ],
+   "n_banda": 50,
+   "n_ref": 21
+  },
+  "PRE_48400": {
+   "B": 2.0,
+   "ic95": [
+    0.62,
+    4.62
+   ],
+   "n_banda": 7,
+   "n_ref": 14
+  },
+  "POST_60500": {
+   "B": NaN,
+   "ic95": [
+    NaN,
+    NaN
+   ],
+   "n_banda": 0,
+   "n_ref": 0
+  }
+ },
+ "corte_18150_w500": {
+  "servicios": {
+   "debajo": 1105,
+   "encima": 0
+  },
+  "suministros": {
+   "debajo": 101,
+   "encima": 0
+  }
+ },
+ "banda_post": {
+  "n": 1230,
+  "eur": 22166164.84,
+  "por_ejercicio": {
+   "2019": 158,
+   "2020": 153,
+   "2021": 170,
+   "2022": 201,
+   "2023": 189,
+   "2024": 178,
+   "2025": 181
+  }
+ },
+ "exacto": {
+  "18150.0": 0,
+  "18149.99": 15,
+  "18000.0": 13,
+  "15000.0": 17,
+  "14999.99": 3
+ },
+ "sobre_limite_post": {
+  "serv_sum_n": 0,
+  "serv_sum_eur": 0.0,
+  "serv_sum_max": NaN,
+  "serv_sum_mediana": NaN,
+  "serv_sum_gt_21780": 0,
+  "obras_n": 0,
+  "obras_eur": 0.0,
+  "por_ejercicio": {}
+ },
+ "E6_repeticion": {
+  "lineas_base": 1687,
+  "eur_base": 29949827.17,
+  "pares_ge2": 103,
+  "lineas_en_pares": 236,
+  "eur_en_pares": 4200045.68,
+  "pares_ge4": 7,
+  "max_lineas_par": 10
+ },
+ "E6_recurrencia": {
+  "pares_3mas_anios": 62,
+  "pares_5mas_anios": 7,
+  "pares_total": 1210
+ },
+ "concentracion_post": {
+  "adjudicatarios": 4786,
+  "top10_pct": 5.62,
+  "top1pct_pct": 16.41
+ },
+ "objeto_post": {
+  "valores_distintos": 337,
+  "lineas": 33395,
+  "top1": "OTROS TRABAJOS EXTERIORES",
+  "top1_lineas": 4102,
+  "top5_lineas": 13013,
+  "top": {
+   "OTROS TRABAJOS EXTERIORES": 4102,
+   "OTROS SUMINISTROS Y BIENES": 3728,
+   "ESTUDIOS Y TRABAJOS TECNICOS": 2045,
+   "ADQUISICIONES": 1735,
+   "EDIFICIOS Y OTRAS CONSTRUCCIONES": 1403,
+   "REUNIONES,CONFERENCIAS Y CURSOS": 1285
+  }
+ },
+ "objeto_banda": {
+  "ESTUDIOS Y TRABAJOS TECNICOS": 333,
+  "OTROS TRABAJOS EXTERIORES": 194,
+  "Servicios comerciales diversos y otros servicios conexos": 90,
+  "ADQUISICIONES": 86,
+  "PROYECTOS DE INVERSION": 53,
+  "Servicios medioambientales": 47
+ },
+ "serie_dfb": {
+  "2014": {
+   "n": 1439,
+   "eur": 14226486.81,
+   "mediana": 6800.0
+  },
+  "2015": {
+   "n": 1384,
+   "eur": 13415389.07,
+   "mediana": 6111.41
+  },
+  "2016": {
+   "n": 1419,
+   "eur": 14001445.64,
+   "mediana": 6999.98
+  },
+  "2017": {
+   "n": 1405,
+   "eur": 14616847.77,
+   "mediana": 7250.01
+  },
+  "2018": {
+   "n": 1356,
+   "eur": 13384136.82,
+   "mediana": 7260.0
+  },
+  "2019": {
+   "n": 5500,
+   "eur": 16330881.26,
+   "mediana": 601.87
+  },
+  "2020": {
+   "n": 4001,
+   "eur": 12444615.97,
+   "mediana": 603.49
+  },
+  "2021": {
+   "n": 4870,
+   "eur": 16542404.14,
+   "mediana": 600.0
+  },
+  "2022": {
+   "n": 5286,
+   "eur": 18694826.79,
+   "mediana": 689.7
+  },
+  "2023": {
+   "n": 4691,
+   "eur": 17529498.59,
+   "mediana": 775.13
+  },
+  "2024": {
+   "n": 4517,
+   "eur": 16875433.21,
+   "mediana": 815.42
+  },
+  "2025": {
+   "n": 4530,
+   "eur": 17106138.31,
+   "mediana": 846.85
+  }
+ },
+ "serie_ifas": {
+  "2014": {
+   "n": 177,
+   "eur": 834618.59
+  },
+  "2015": {
+   "n": 200,
+   "eur": 947955.3
+  },
+  "2016": {
+   "n": 3681,
+   "eur": 2511558.44
+  },
+  "2017": {
+   "n": 3669,
+   "eur": 2686444.58
+  },
+  "2018": {
+   "n": 3319,
+   "eur": 2909146.5
+  },
+  "2019": {
+   "n": 3297,
+   "eur": 2121740.78
+  },
+  "2020": {
+   "n": 2742,
+   "eur": 2294265.99
+  },
+  "2021": {
+   "n": 3296,
+   "eur": 2579799.73
+  },
+  "2022": {
+   "n": 3602,
+   "eur": 2575068.51
+  },
+  "2023": {
+   "n": 3606,
+   "eur": 2852360.0
+  },
+  "2024": {
+   "n": 3925,
+   "eur": 4242844.43
+  },
+  "2025": {
+   "n": 3711,
+   "eur": 3252839.96
+  }
+ },
+ "B_por_ejercicio": {
+  "2014": {
+   "B18150": 1.82,
+   "B21780": 6.33,
+   "n_18150": 20,
+   "n_21780": 68
+  },
+  "2015": {
+   "B18150": 2.82,
+   "B21780": 4.82,
+   "n_18150": 31,
+   "n_21780": 59
+  },
+  "2016": {
+   "B18150": 1.91,
+   "B21780": 6.43,
+   "n_18150": 22,
+   "n_21780": 82
+  },
+  "2017": {
+   "B18150": 2.36,
+   "B21780": 6.59,
+   "n_18150": 39,
+   "n_21780": 84
+  },
+  "2018": {
+   "B18150": 5.42,
+   "B21780": 6.4,
+   "n_18150": 99,
+   "n_21780": 24
+  },
+  "2019": {
+   "B18150": 7.44,
+   "B21780": NaN,
+   "n_18150": 158,
+   "n_21780": 0
+  },
+  "2020": {
+   "B18150": 12.75,
+   "B21780": NaN,
+   "n_18150": 153,
+   "n_21780": 0
+  },
+  "2021": {
+   "B18150": 8.0,
+   "B21780": NaN,
+   "n_18150": 170,
+   "n_21780": 0
+  },
+  "2022": {
+   "B18150": 7.44,
+   "B21780": NaN,
+   "n_18150": 201,
+   "n_21780": 0
+  },
+  "2023": {
+   "B18150": 8.49,
+   "B21780": NaN,
+   "n_18150": 189,
+   "n_21780": 0
+  },
+  "2024": {
+   "B18150": 6.59,
+   "B21780": NaN,
+   "n_18150": 178,
+   "n_21780": 0
+  },
+  "2025": {
+   "B18150": 5.93,
+   "B21780": NaN,
+   "n_18150": 181,
+   "n_21780": 0
+  }
+ },
+ "mes_adjudicacion": {
+  "n": 9501,
+  "ejercicios": [
+   2019,
+   2020
+  ],
+  "por_mes": {
+   "1": 86,
+   "2": 940,
+   "3": 932,
+   "4": 749,
+   "5": 794,
+   "6": 729,
+   "7": 620,
+   "8": 326,
+   "9": 627,
+   "10": 830,
+   "11": 915,
+   "12": 1953
+  },
+  "eur_por_mes": {
+   "1": 326389.91,
+   "2": 2480075.07,
+   "3": 2005253.22,
+   "4": 2235762.16,
+   "5": 1930653.95,
+   "6": 1626455.96,
+   "7": 1388263.23,
+   "8": 711077.14,
+   "9": 1587159.49,
+   "10": 2569180.98,
+   "11": 3862447.19,
+   "12": 8052778.93
+  }
+ },
+ "no_menores_obl": {
+  "2014": 266133771.11,
+  "2015": 267006578.26,
+  "2016": 281018205.82,
+  "2017": 315967387.6,
+  "2018": 353319612.04,
+  "2019": 368248555.23,
+  "2020": 375376898.07,
+  "2021": 411965092.15,
+  "2022": 408092519.97,
+  "2023": 471379022.99,
+  "2024": 475589464.51,
+  "2025": 502027763.49
+ },
+ "liquidacion_columnas": [
+  "SOCIEDAD_EU",
+  "SOCIEDAD_CAS",
+  "EJERCICIO",
+  "MES HASTA",
+  "DEPARTAMENTO",
+  "DESCRIPCION DEPARTAMENTO_EU",
+  "DESCRIPCION DEPARTAMENTO_CAS",
+  "CENTRO GESTOR",
+  "DESCR. CENTRO GESTOR_EUS",
+  "DESCR. CENTRO GESTOR_CAS",
+  "AREA DE GASTO",
+  "DESCRIPCION AREA DE GASTO_EUS",
+  "DESCRIPCION AREA DE GASTO_CAS",
+  "POLITICA DE GASTO",
+  "DESCR. POLITICA DE GASTO_EUS",
+  "DESCR. POLITICA DE GASTO_CAS",
+  "GRUPO",
+  "DESCRIPCION GRUPO_EUS",
+  "DESCRIPCION GRUPO_CAS",
+  "PROGRAMA",
+  "DESCRIPCION PROGRAMA_EUS",
+  "DESCRIPCION PROGRAMA_CAS",
+  "CAPITULO",
+  "DESCRIPCION CAPITULO_EUS",
+  "DESCRIPCION CAPITULO_CAS",
+  "ARTICULO",
+  "DESCRIPCION ARTICULO_EUS",
+  "DESCRIPCION ARTICULO_CAS",
+  "CONCEPTO",
+  "DESCRIPCION CONCEPTO_EUS",
+  "DESCRIPCION CONCEPTO_CAS",
+  "SUBCONCEPTO",
+  "DESCRIPCION SUBCONCEPTO_EUS",
+  "DESCRIPCION SUBCONCEPTO_CAS",
+  "PROYECTO",
+  "DESCRIPCION PROYECTO",
+  "CREDITO INICIAL",
+  "CREDITO FINAL",
+  "AUTORIZACION",
+  "DISPOSICION",
+  "OBLIGACION",
+  "PAGO DE EJERCICIO CORRIENTE",
+  "PAGO DE EJERCICIOS CERRADOS",
+  "Unnamed: 43",
+  "ej",
+  "cap",
+  "o"
+ ],
+ "liquidacion_col_usada": "OBLIGACION",
+ "cap2_obl": {
+  "2016": 405347049.52,
+  "2017": 428413730.78,
+  "2018": 400345082.26,
+  "2019": 421518864.18,
+  "2020": 427754227.39,
+  "2021": 447975228.74,
+  "2022": 471550902.02,
+  "2023": 511467203.53,
+  "2024": 544383973.17
+ },
+ "total_obl": {
+  "2016": 7168066878.31,
+  "2017": 7927211753.39,
+  "2018": 8021685578.28,
+  "2019": 8346586424.4,
+  "2020": 7671751453.91,
+  "2021": 8707967111.46,
+  "2022": 9476526188.75,
+  "2023": 10112793963.41,
+  "2024": 9959273345.34
+ },
+ "liq_filas_por_ej": {
+  "2016": 2225,
+  "2017": 2022,
+  "2018": 2059,
+  "2019": 2202,
+  "2020": 2412,
+  "2021": 2368,
+  "2022": 2479,
+  "2023": 2535,
+  "2024": 2468
+ }
+}
