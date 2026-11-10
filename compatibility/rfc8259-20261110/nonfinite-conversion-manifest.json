@@ -1,0 +1,152 @@
+{
+  "created_at_utc": "2026-11-10T19:18:59.993992+00:00",
+  "scope": "Additive serialization compatibility export of historical public aggregates; no new scientific result or validation of the finite estimates",
+  "source": {
+    "repository": "Agnuxo1/bizkaia-data-journalism-2026",
+    "commit": "7cae90a8e13b7ed76daeecbfe8d69c45ff305223",
+    "path": "verificacion/resultados.json",
+    "url": "https://github.com/Agnuxo1/bizkaia-data-journalism-2026/blob/7cae90a8e13b7ed76daeecbfe8d69c45ff305223/verificacion/resultados.json",
+    "bytes": 9976,
+    "sha256": "a6f91605f10a57ac7111ca0112c58573150a1371d9e263fb774faa41f2041da5",
+    "remote_git_blob_sha1": "8fb61884f846bd3dec2294c76a09f02e22bc5374",
+    "computed_git_blob_sha1": "8fb61884f846bd3dec2294c76a09f02e22bc5374",
+    "blob_verified": true
+  },
+  "derived": {
+    "path": "resultados.rfc8259.json",
+    "bytes": 10000,
+    "sha256": "9bbabfcc33f3b048fbc3f1fb8f3ef46e754ab79f00f7d3a7c4bb21db7c2c4669",
+    "strict_rfc8259_parse": true
+  },
+  "changes": [
+    {
+      "pointer": "/E1_E2_dfb_servicios/POST_21780/B",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/E1_E2_dfb_servicios/POST_21780/ic95/0",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/E1_E2_dfb_servicios/POST_21780/ic95/1",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/E2b_dfb_suministros/POST_21780/B",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/E2b_dfb_suministros/POST_21780/ic95/0",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/E2b_dfb_suministros/POST_21780/ic95/1",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/E3_ifas_servicios/POST_21780/B",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/E3_ifas_servicios/POST_21780/ic95/0",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/E3_ifas_servicios/POST_21780/ic95/1",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/E3b_ifas_suministros/POST_21780/B",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/E3b_ifas_suministros/POST_21780/ic95/0",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/E3b_ifas_suministros/POST_21780/ic95/1",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/E5_obras_dfb/POST_60500/B",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/E5_obras_dfb/POST_60500/ic95/0",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/E5_obras_dfb/POST_60500/ic95/1",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/sobre_limite_post/serv_sum_max",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/sobre_limite_post/serv_sum_mediana",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/B_por_ejercicio/2019/B21780",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/B_por_ejercicio/2020/B21780",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/B_por_ejercicio/2021/B21780",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/B_por_ejercicio/2022/B21780",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/B_por_ejercicio/2023/B21780",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/B_por_ejercicio/2024/B21780",
+      "original_literal": "NaN",
+      "replacement": null
+    },
+    {
+      "pointer": "/B_por_ejercicio/2025/B21780",
+      "original_literal": "NaN",
+      "replacement": null
+    }
+  ],
+  "changed_values": 24,
+  "preserved": "Every finite numeric value, numeric spelling, string, object key/order, array position and every other byte outside non-finite tokens",
+  "null_semantics": "null records an original non-finite value in a strict JSON export. It does not mean zero, an imputed estimate, a finite confidence interval, or a newly inferred cause of missingness.",
+  "limitations": "Historical source only. This export does not reconcile the historical estimates with later revised PDFs, reproduce CSV/raw data, or change article conclusions. Original source, original repository history, figures and documentation remain unchanged.",
+  "licensing": "Existing mixed source terms remain applicable; no blanket relicensing of article, figures or upstream material. New transformation code declares Apache-2.0.",
+  "author": {
+    "name": "Francisco Angulo de Lafuente",
+    "orcid": "0009-0001-1634-7063"
+  }
+}
