@@ -8,6 +8,10 @@ Data-journalism investigation prepared for the Reto del Periodismo de Datos 2026
 
 *Animated histogram built from the real data, one frame per year. Lines of services and supplies.*
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> The reproducible CPU analysis replaces repeated manual aggregation of procurement records with traceable calculations, sensitivity checks and source-linked figures. It supports more transparent examination of how public resources are allocated without training a model or requiring a GPU. The observed accounting patterns support investigation rather than proving wrongdoing. See the <a href="#number-verification">verification method</a> and <a href="#limits-of-the-evidence">evidence limits</a>.</sub>
+<!-- impact-note:end -->
+
 ## Main result
 
 From 2019 to 2025, 1,105 service lines fall in the 500 EUR below 18,150 EUR (15,000 EUR plus 21% VAT), and none in the 500 EUR above it. The density ratio just under that amount is 8.09. A new supplier-cluster bootstrap gives a 95% sensitivity interval of [7.09, 9.26]; the original line-resampling interval was [7.31, 8.97]. The observed counts describe the archived records exactly. Resampling intervals depend on a hypothetical sampling model.
